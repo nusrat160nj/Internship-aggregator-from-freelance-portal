@@ -19,7 +19,7 @@ else{
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Internship Aggregator From Freelance Portal</title>
+	<title>SNS Intern freelance portal</title>
 	<meta charset="utf-8">
   	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
@@ -46,7 +46,7 @@ else{
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a href="index.php" class="navbar-brand">Internship Aggregator From Freelance Portal</a>
+			<a href="index.php" class="navbar-brand">SNS Intern freelance portal</a>
 		</div>
 		<div class="collapse navbar-collapse" id="navbar-collapse">
 			<a href="loginReg.php" class="btn btn-info navbar-btn navbar-right">Register</a>
@@ -70,7 +70,7 @@ else{
 	<div class="col-lg-4">
 		<div class="jumbotron">
 			<div class="container text-center">
-				<h1>Internship Aggregator From Freelance Portal</h1>
+				<h1>SNS Intern freelance portal</h1>
 				<p>Remember, time is money. Use it properly. Do not waste your time thinking when others are getting things done here.</p>
 				<a href="loginReg.php" class="btn btn-warning btn-lg">It's Free!! Join Now!!!</a>
 				<p></p>
@@ -263,7 +263,7 @@ else{
   <button type="button" class="btn btn-default btn-lg" data-toggle="collapse" data-target="#demo" style="width:1062px"><h3>What is Freelance Marketplace?</h3></button>
   <div id="demo" class="collapse">
   	<div class="card" style="padding:20px 40px 20px 40px;">
-  		<h4>Internship Aggregator From Freelance Portal is an online outsourcing platform that puts employers and businesses in contact with a global network of freelancers. Any member can post a project, whether a short- or long-term job, and choose from skilled freelancers who offer bid proposals with rate for completing the work. It's a mutually beneficial arrangement. <br>Employers can have their pick of thousands of freelancers who have the exact skills needed to get the job done, without undertaking the expense and commitment of hiring full-time employees in person. <br>Freelancers can tap into a readily available source of constant part-time and full-time work opportunities from employers who are specifically seeking them out.</h4>
+  		<h4>Internship Aggregator From SNS Freelance Portal is an online outsourcing platform that puts employers and businesses in contact with a global network of freelancers. Any member can post a project, whether a short- or long-term job, and choose from skilled freelancers who offer bid proposals with rate for completing the work. It's a mutually beneficial arrangement. <br>Employers can have their pick of thousands of freelancers who have the exact skills needed to get the job done, without undertaking the expense and commitment of hiring full-time employees in person. <br>Freelancers can tap into a readily available source of constant part-time and full-time work opportunities from employers who are specifically seeking them out.</h4>
   	</div>
   </div>
   <button type="button" class="btn btn-default btn-lg" data-toggle="collapse" data-target="#demo1" style="width:1062px"><h3>I am an Employer, how will this site work for me?</h3></button>
@@ -281,7 +281,7 @@ else{
   <button type="button" class="btn btn-default btn-lg" data-toggle="collapse" data-target="#demo3" style="width:1062px"><h3>Do I have to pay to register?</h3></button>
   <div id="demo3" class="collapse">
   	<div class="card" style="padding:20px 40px 20px 40px;">
-  		<h4>No. Internship Aggregator From Freelance Portal is absolutely free to register and explore the posted job offers, freelancers and employers.</h4>
+  		<h4>No. Internship Aggregator From SNS Freelance Portal is absolutely free to register and explore the posted job offers, freelancers and employers.</h4>
   	</div>
   </div>
   </div>
@@ -302,15 +302,15 @@ else{
 		</div>
 		<div class="col-lg-3">
 			<h3>About Us</h3>
-			<p>Freelance Portal for Students Internship Aggregator</p>
+			<p>SNS Freelance Portal for Students Internship Aggregation</p>
 			<p>founder : Ramana,Nusrat,Rishma,Preethi</p>
 			<p>karpagam Institute Of Technology</p>
 			<p>2023</p>
 		</div>
 		<div class="col-lg-3">
 			<h3>Contact Us</h3>
-			<p>ramanasingle123@gmail.com</p>
-			<p>6384241805</p>
+			<p>snsinternportal@gmail.com</p>
+			<p>5694231589</p>
 		</div>
 		<div class="col-lg-3">
 			<h3>Social Contact</h3>
@@ -322,6 +322,7 @@ else{
 	</div>
 </div>
 <!--End Footer-->
+
 
 
 <script type="text/javascript" src="jquery/jquery-3.2.1.min.js"></script>
